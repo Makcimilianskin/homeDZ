@@ -1,0 +1,13 @@
+.dom {
+    
+    height: 1000px;
+    background: url(/png/Дом.jpg) 50% / 40% no-repeat ,
+                url(/png/Трава.png) 50% 720px / 15%  repeat-x ,
+                url(/png/Лампа.png) 0px 0px / 3%  repeat-x ,
+                url(/png/Почик.png) 1800px / 5% repeat-y ,
+                url(/png/ёд.png) 0px 0px / 5% repeat-y
+    
+}
+.color {
+    background-color: green;
+}
